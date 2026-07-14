@@ -4,7 +4,7 @@
  */
 
 /** @type {string} Replace YOUR_BOT_USERNAME with your Telegram bot handle */
-const TELEGRAM_URL = 'https://t.me/bytefl0wbot';
+const TELEGRAM_URL = 'https://telegram.me/bytefl0wbot';
 
 const HEADER_OFFSET = 72;
 
